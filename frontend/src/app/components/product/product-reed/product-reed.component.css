@@ -1,0 +1,26 @@
+table {
+  width: 100%;
+}
+
+.edit {
+  display: inline-flex;
+  margin-right: 15px;
+  text-decoration: none;
+}
+.edit > i {
+  color: #b9b4b4;
+}
+.edit > i:hover {
+  color: #d9cd26;
+}
+
+.delete {
+  display: inline-flex;
+  text-decoration: none;
+}
+.delete > i {
+  color: #b9b4b4;
+}
+.delete > i:hover {
+  color: #e35e6b;
+}
